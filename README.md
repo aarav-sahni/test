@@ -1,3 +1,3 @@
 # test
 
-This is a test line.
+This is a test line. Added here for conflict.
