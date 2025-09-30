@@ -1,5 +1,5 @@
 # test
 
-This i s a test line. Added here for conflict.
-Again a dry run for confict.
+This i s a test line.
+Now conflict should Arise
 
